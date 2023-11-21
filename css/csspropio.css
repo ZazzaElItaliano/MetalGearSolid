@@ -1,0 +1,64 @@
+body{
+    background-image: url(../fotos/py83aZ8UeX2JxGuQZjBy22T5.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fondo1 {
+    background-color: #ffffff;
+    padding: 20px;
+  }
+  
+.animar:hover{
+    transform:scale(1.1);
+}
+.carousel-inner img {
+  width: 100%;
+  height: auto;
+}
+
+header{
+    background-color:rgb(65, 59, 59);
+}
+
+.margin-sup{
+    margin-top: 2.7rem;
+}
+
+.padding-texto{
+    padding: 55px;
+    line-height: 1.5rem;
+}
+
+.texto-justificado{
+    text-align: justify;
+}
+
+.padding-slider{
+    padding: 30px;
+}
+
+.borde-tarjetas{
+    border-radius: 10px;
+}
+
+.color-footer{
+    background-color: black;
+}
+
+.color-tabla{
+    background-color: rgb(237, 248, 248);
+}
+.color-thead{
+    background-color: rgb(211, 248, 243);
+}
+.edad-cell {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  
+
+  .site-content {
+    min-height: 100vh; 
+    margin-bottom: 60px; 
+  }
